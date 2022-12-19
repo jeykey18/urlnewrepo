@@ -68,7 +68,7 @@
 - [❣️ Join Youtube](https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw)
 
 
-#### 🧡 Respecting... 🧡
+#### ❤️ Respecting... 💙
 - [🔥 LazyDeveloperr](https://github.com/LazyDeveloperr) 
 - [🔥 Instagram](https://www.instagram.com/LazyDeveloperrr) 
 - [🔥 Pyrogram](https://github.com/pyrogram/pyrogram)
@@ -77,10 +77,10 @@
 **Features**:
 👉 Upload [yt-dlp Supported Links](https://ytdl-org.github.io/youtube-dl/supportedsites.html) to Telegram.
 
-🧡 Upload HTTP/HTTPS as File/Video to Telegram.
-🧡 Upload zee5, sony.live, voot and much more.
-🧡 Permanent thumbnail Support.
-🧡 Broadcast message.
+❤️ Upload HTTP/HTTPS as File/Video to Telegram.
+❤️ Upload zee5, sony.live, voot and much more.
+❤️ Permanent thumbnail Support.
+❤️ Broadcast message.
 
 ## Credits, and Thanks to
 * [@LazyDeveloper](https://telegram.me/mRiderDM) LazyDeveloper
